@@ -5,13 +5,73 @@
       <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
       <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
     </Filter>
-    <Filter Include="헤더 파일">
-      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
-      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    <Filter Include="소스 파일\AlgoLab">
+      <UniqueIdentifier>{fbe377af-60c0-4f48-9788-fcdb1639616e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="리소스 파일">
-      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    <Filter Include="소스 파일\수업">
+      <UniqueIdentifier>{522d3c99-ae39-4687-9602-6654c314bfcb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\시험">
+      <UniqueIdentifier>{172c8fd0-cce1-404d-bf6c-12ee71ab7ba6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="주어진정수의최대최소구하기.cpp">
+      <Filter>소스 파일\AlgoLab</Filter>
+    </ClCompile>
+    <ClCompile Include="정수연산.cpp">
+      <Filter>소스 파일\AlgoLab</Filter>
+    </ClCompile>
+    <ClCompile Include="부활절날짜계산.cpp">
+      <Filter>소스 파일\AlgoLab</Filter>
+    </ClCompile>
+    <ClCompile Include="두정수사이의모든정수의합구하기.cpp">
+      <Filter>소스 파일\AlgoLab</Filter>
+    </ClCompile>
+    <ClCompile Include="끝자리숫자계산하기.cpp">
+      <Filter>소스 파일\AlgoLab</Filter>
+    </ClCompile>
+    <ClCompile Include="모래시계출력하기.cpp">
+      <Filter>소스 파일\AlgoLab</Filter>
+    </ClCompile>
+    <ClCompile Include="다이아몬드모양출력하기.cpp">
+      <Filter>소스 파일\AlgoLab</Filter>
+    </ClCompile>
+    <ClCompile Include="수직수평선분의교차.cpp">
+      <Filter>소스 파일\AlgoLab</Filter>
+    </ClCompile>
+    <ClCompile Include="삼각형의종류-2.cpp">
+      <Filter>소스 파일\AlgoLab</Filter>
+    </ClCompile>
+    <ClCompile Include="삼각형의종류-1.cpp">
+      <Filter>소스 파일\AlgoLab</Filter>
+    </ClCompile>
+    <ClCompile Include="사각형점과의거리.cpp">
+      <Filter>소스 파일\AlgoLab</Filter>
+    </ClCompile>
+    <ClCompile Include="패리티비트.cpp">
+      <Filter>소스 파일\AlgoLab</Filter>
+    </ClCompile>
+    <ClCompile Include="시험점수분포.cpp">
+      <Filter>소스 파일\AlgoLab</Filter>
+    </ClCompile>
+    <ClCompile Include="소수.cpp">
+      <Filter>소스 파일\AlgoLab</Filter>
+    </ClCompile>
+    <ClCompile Include="0이아닌마지막자리수구하기.cpp">
+      <Filter>소스 파일\AlgoLab</Filter>
+    </ClCompile>
+    <ClCompile Include="해밍수.cpp">
+      <Filter>소스 파일\AlgoLab</Filter>
+    </ClCompile>
+    <ClCompile Include="소인수분해.cpp">
+      <Filter>소스 파일\AlgoLab</Filter>
+    </ClCompile>
+    <ClCompile Include="1차원라이프게임.cpp">
+      <Filter>소스 파일\AlgoLab</Filter>
+    </ClCompile>
+    <ClCompile Include="중간고사.cpp">
+      <Filter>소스 파일\시험</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
